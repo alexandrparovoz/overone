@@ -1,9 +1,10 @@
-x = 55
+if __name__ == '__main__':
 
-def func(x):
-    print('x equals', x)
-    x = 2
-    print("Замена локального х на", x)
+    x = 55
 
-func(x)
-print('x still ', x)
+    def func(x):
+        print('x equals', x)
+        x = 2
+        print("Замена локального х на", x)
+    func(x)
+    print('x still ', x)
