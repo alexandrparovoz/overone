@@ -1,4 +1,4 @@
-if __name__ =='__main__':
+if __name__ == '__main__':
 
     number = 55
     running = True
