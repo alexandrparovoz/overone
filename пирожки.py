@@ -1,4 +1,5 @@
 if __name__ == '__main__':
+
     cake_rub = int(input('Введите цену пирожков в рублях: '))
     cake_pens = int(input('Введите цену ппирожков в копейках: '))
     cake_total = int(input('Введите число пирожков:'))
