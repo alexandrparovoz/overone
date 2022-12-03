@@ -1,4 +1,6 @@
 if __name__ == '__main__':
+
+
     number = int(input('Введите  чтырехзачное число:'))
     a = number % 10
     b = number % 100 // 10
