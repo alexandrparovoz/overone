@@ -10,4 +10,4 @@ if __name__ == '__main__':
         print('No, guess number same more, then your number')
     else:
         print('No, guess number same less then your number')
-    print('Finished!')  #  Это выражение всгда выполняется после исполнения оператора if
+    print('Finished!')  #  Это выражение ыполняется после исполнения оператора if

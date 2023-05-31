@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-
+# подсчет времени выполнения компом  математических операций
     from math import sqrt
     from time import monotonic
 
